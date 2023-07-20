@@ -1,7 +1,7 @@
 # Progressive Negative Enhancing Contrastive Learning for Image Dehazing and Other Applications
 
 ## Network Architecture
-![Network Architecture](./Img/Framework.png){width: 80%;}
+![Network Architecture](./Img/Framework.png){height: 80%;}
 
 ## Dependencies
 - Python >= 3.6
